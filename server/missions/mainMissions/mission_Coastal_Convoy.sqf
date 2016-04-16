@@ -25,16 +25,16 @@ _setupObjects =
 
 	_vehChoices =
 	[
-		["B_Boat_Armed_01_minigun_F", "B_Heli_Transport_01_F"],
-		["O_Boat_Armed_01_hmg_F", "O_Heli_Light_02_F"],
-		["I_Boat_Armed_01_minigun_F", "I_Heli_light_03_F"]
+		["B_Boat_Armed_01_minigun_F", "CUP_B_UH60M_FFV_US"],
+		["O_Boat_Armed_01_hmg_F", "CUP_B_UH1Y_GUNSHIP_USMC"],
+		["I_Boat_Armed_01_minigun_F", "CUP_B_Mi171Sh_ACR"]
 	];
 
 	if (missionDifficultyHard) then
 	{
-		(_vehChoices select 0) set [1, "B_Heli_Attack_01_F"];
-		(_vehChoices select 1) set [1, "O_Heli_Attack_02_F"];
-		(_vehChoices select 2) set [1, "O_Heli_Attack_02_black_F"];
+		(_vehChoices select 0) set [1, "CUP_B_AH64D_USA"];
+		(_vehChoices select 1) set [1, "CUP_O_Mi24_P_RU"];
+		(_vehChoices select 2) set [1, "CUP_B_UH1Y_GUNSHIP_USMC"];
 	};
 
 	_convoyVeh = _vehChoices call BIS_fnc_selectRandom;

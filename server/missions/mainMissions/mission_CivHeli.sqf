@@ -13,7 +13,12 @@ private ["_vehicleClass", "_nbUnits"];
 
 _setupVars =
 {
-	_vehicleClass = ["I_Heli_Transport_02_F", "B_Heli_Transport_03_unarmed_F", "O_Heli_Transport_04_bench_F"] call BIS_fnc_selectRandom;
+	_vehicleClass = [	"CUP_B_Merlin_HC3_GB", 
+						"CUP_B_UH1D_GER_KSK", 
+						"CUP_B_UH60M_Unarmed_US",
+						"CUP_B_CH53E_USMC",
+						"CUP_B_Mi17_medevac_CDF",
+						"CUP_O_MI6A_CHDKZ"] call BIS_fnc_selectRandom;
 
 	_missionType = "Transport Helicopter";
 	_locationsArray = MissionSpawnMarkers;

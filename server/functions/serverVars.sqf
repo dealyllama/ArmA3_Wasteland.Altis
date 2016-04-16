@@ -22,13 +22,13 @@ currentStaticHelis = []; // Storage for the heli marker numbers so that we don't
 civilianVehicles =
 [
 	"C_Quadbike_01_F",
-	"C_Hatchback_01_F",
-	"C_Hatchback_01_sport_F",
-	"C_SUV_01_F",
-	"C_Offroad_01_F",
-	"I_G_Offroad_01_F",
-	"C_Van_01_box_F",
-	"C_Van_01_transport_F"
+	"CUP_C_Skoda_Blue_CIV",
+	"CUP_C_Skoda_Green_CIV",
+	"CUP_C_Datsun_Covered",
+	"CUP_C_Golf4_camo_Civ",
+	"CUP_B_LR_Transport_CZ_W",
+	"CUP_B_Ural_CDF",
+	"CUP_O_Ural_Open_CHDKZ"
 ];
 
 //Light Military Vehicle List - Random Spawns
@@ -42,7 +42,7 @@ lightMilitaryVehicles =
 //	"I_Truck_02_covered_F",
 //	"O_Truck_02_transport_F",
 //	"I_Truck_02_transport_F",
-	"I_G_Offroad_01_armed_F"
+	"CUP_O_UAZ_MG_TKA"
 ];
 
 //Medium Military Vehicle List - Random Spawns
@@ -52,9 +52,9 @@ mediumMilitaryVehicles =
 //	"O_Truck_02_Fuel_F",
 //	"I_Truck_02_medical_F",
 //	"O_Truck_02_medical_F",
-	"B_MRAP_01_F",
-	"O_MRAP_02_F",
-	"I_MRAP_03_F"
+	"CUP_B_HMMWV_M1114_USMC",
+	"CUP_B_LR_MG_CZ_W"
+	//"CUP_B_Dingo_GER_Wdl"
 ];
 
 //Water Vehicles - Random Spawns
@@ -70,12 +70,10 @@ waterVehicles =
 //	"O_Boat_Transport_01_F",
 //	"I_Boat_Transport_01_F",
 //	"I_G_Boat_Transport_01_F",
-	"B_Boat_Armed_01_minigun_F",
-	"O_Boat_Armed_01_hmg_F",
-	"I_Boat_Armed_01_minigun_F",
-	"C_Boat_Civil_01_F",
-	"C_Boat_Civil_01_police_F",
-	"C_Boat_Civil_01_rescue_F"
+	"CUP_C_Fishing_Boat_Chernarus",
+	"CUP_I_RHIB_RACS",
+	"CUP_B_RHIB2Turret_USMC",
+	"CUP_B_Zodiac_USMC"
 ];
 
 //Essential List - Random Spawns.
@@ -141,19 +139,19 @@ staticWeaponsList =
 //Object List - Random Helis.
 staticHeliList =
 [
-	"C_Heli_Light_01_civil_F",
-	"B_Heli_Light_01_F",
-	"O_Heli_Light_02_unarmed_F",
-	"I_Heli_light_03_unarmed_F"
+	"CUP_B_UH60M_Unarmed_US",
+	"CUP_B_UH1Y_UNA_USMC",
+	"CUP_I_SA330_Puma_HC2_RACS"
 	// don't put cargo helicopters here, it doesn't make sense to find them in towns; they spawn in the CivHeli mission
 ];
 
 //Object List - Random Planes.
 staticPlaneList =
 [
-	"B_Plane_CAS_01_F",
-	"O_Plane_CAS_02_F",
-	"I_Plane_Fighter_03_CAS_F"
+	"CUP_B_A10_AT_USA",
+	"CUP_B_AV8B_CAP_USMC",
+	"CUP_O_Su25_TKA",
+	"CUP_I_SU34_LGB_AAF"
 ];
 
 //Random Weapon List - Change this to what you want to spawn in cars.
@@ -163,26 +161,10 @@ vehicleWeapons =
 //	"hgun_Rook40_F",
 //	"hgun_ACPC2_F",
 //	"arifle_SDAR_F",
-	"SMG_01_F",	// Vermin .45 ACP
-	"SMG_02_F",	// Sting 9mm
-	"hgun_PDW2000_F",
-	"arifle_TRG20_F",
-	"arifle_TRG21_F",
-	"arifle_TRG21_GL_F",
-	"arifle_Mk20C_F",
-	"arifle_Mk20_F",
-	"arifle_Mk20_GL_F",
-	"arifle_Katiba_F",
-	"arifle_Katiba_C_F",
-	"arifle_Katiba_GL_F",
-	"arifle_MXC_F",
-	"arifle_MX_F",
-	"arifle_MX_GL_F",
-	"arifle_MX_SW_F",
-	"arifle_MXM_F",
-	"srifle_EBR_F",
-	"LMG_Mk200_F",
-	"LMG_Zafir_F"
+	"CUP_hgun_Duty",
+	"CUP_hgun_Colt1911",
+	"CUP_hgun_TaurusTracker455",
+	"CUP_srifle_LeeEnfield"
 ];
 
 vehicleAddition =

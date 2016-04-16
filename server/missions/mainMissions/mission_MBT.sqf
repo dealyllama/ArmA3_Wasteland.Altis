@@ -15,9 +15,9 @@ _setupVars =
 {
 	_vehicleClass =
 	[
-		"B_MBT_01_cannon_F",
-		"O_MBT_02_cannon_F",
-		"I_MBT_03_cannon_F"
+		"CUP_O_T72_SLA",
+		"CUP_B_M1A2_TUSK_MG_US_Army",
+		"CUP_B_M6LineBacker_USA_W"
 	] call BIS_fnc_selectRandom;
 
 	_missionType = "Main Battle Tank";

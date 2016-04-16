@@ -21,16 +21,16 @@ _setupObjects =
 
 	_heliChoices =
 	[
-		["B_Heli_Transport_01_F", "B_Heli_Light_01_armed_F"],
-		["B_Heli_Transport_01_camo_F", "O_Heli_Light_02_F"],
-		["B_Heli_Transport_01_F", "I_Heli_light_03_F"]
+		["CUP_B_CH53E_USMC", "CUP_B_Mi35_CZ"],
+		["CUP_B_Mi171Sh_ACR", "CUP_B_UH1Y_GUNSHIP_USMC"],
+		["CUP_B_UH1D_GER_KSK", "CUP_B_UH60M_Unarmed_US"]
 	];
 
 	if (missionDifficultyHard) then
 	{
-		(_heliChoices select 0) set [0, "B_Heli_Attack_01_F"];
-		(_heliChoices select 1) set [0, "O_Heli_Attack_02_F"];
-		(_heliChoices select 2) set [0, "O_Heli_Attack_02_black_F"];
+		(_heliChoices select 0) set [0, "CUP_O_Mi24_P_RU"];
+		(_heliChoices select 1) set [0, "CUP_B_AH64D_USA"];
+		(_heliChoices select 2) set [0, "CUP_B_UH60M_FFV_US"];
 	};
 
 	_convoyVeh = _heliChoices call BIS_fnc_selectRandom;

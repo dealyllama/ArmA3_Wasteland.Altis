@@ -39,13 +39,22 @@ lootWeapon_list =
 			
 			//TODO - switch to arma 3 surpressors and scopes for more compatability
 			//Scopes
-			"CUP_optic_ACOG",
-			"CUP_optic_TrijiconRx01_black",
-			"CUP_optic_ElcanM145",
-			"CUP_optic_Elcan_reflex",
-			"CUP_optic_HoloBlack",
-			"CUP_optic_HoloWdl",
-			"CUP_optic_Eotech533Grey",
+			"muzzle_snds_L", // 9mm
+			"muzzle_snds_M", // 5.56mm
+			"muzzle_snds_H", // 6.5mm
+			"muzzle_snds_H_MG", // 6.5mm LMG
+			"muzzle_snds_B", // 7.62mm
+			"muzzle_snds_acp", // .45 ACP
+			"optic_Arco",
+			"optic_SOS",
+			"optic_Hamr",
+			"optic_Aco",
+			"optic_ACO_grn",
+			"optic_aco_smg",
+			"optic_Holosight",
+			"optic_Holosight_smg",
+			"acc_flashlight",
+			"acc_pointer_IR",
 			"CUP_optic_Kobra",
 			"CUP_optic_PSO_1",
 			"CUP_optic_PSO_3",

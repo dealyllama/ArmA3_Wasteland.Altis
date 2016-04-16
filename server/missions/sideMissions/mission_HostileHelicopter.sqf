@@ -21,11 +21,11 @@ _setupObjects =
 
 	_vehicleClass = if (missionDifficultyHard) then
 	{
-		["B_Heli_Attack_01_F", "O_Heli_Attack_02_black_F"] call BIS_fnc_selectRandom;
+		["CUP_O_Mi24_P_RU", "CUP_B_AH64D_USA", "CUP_B_UH60M_FFV_US"] call BIS_fnc_selectRandom;
 	}
 	else
 	{
-		["B_Heli_Light_01_armed_F", "O_Heli_Light_02_F", "I_Heli_light_03_F"] call BIS_fnc_selectRandom;
+		["CUP_B_UH1Y_GUNSHIP_USMC", "CUP_B_CH53E_USMC", "CUP_B_Mi171Sh_ACR"] call BIS_fnc_selectRandom;
 	};
 
 	_createVehicle =
@@ -47,7 +47,8 @@ _setupObjects =
 		// the little bird, orca, and hellcat do not require gunners and should not have any passengers
 		_soldier = [_aiGroup, _position] call createRandomSoldierC;
 		_soldier moveInDriver _vehicle;
-
+		
+//TODO - need to update the turrets and crews for these vehicles
 		switch (true) do
 		{
 			case (_type isKindOf "Heli_Transport_01_base_F"):

@@ -15,12 +15,17 @@ _setupVars =
 {
 	_vehicleClass =
 	[
-		"B_Heli_Light_01_armed_F",
-		"B_Heli_Transport_01_F",
-		"B_Heli_Attack_01_F",
-		"O_Heli_Light_02_F",
-		"O_Heli_Attack_02_F",
-		"I_Heli_light_03_F"
+		"CUP_B_AH64D_USA",
+		"CUP_B_Merlin_HC3_GB",
+		"CUP_B_CH47F_USA",
+		"CUP_B_CH53E_USMC",
+		"CUP_B_Mi171Sh_ACR",
+		"CUP_O_Mi24_P_RU",
+		"CUP_B_Mi35_CZ",
+		"CUP_B_UH1D_GER_KSK",
+		"CUP_B_UH1Y_GUNSHIP_USMC",
+		"CUP_B_UH60M_FFV_US",
+		"CUP_B_UH60M_Unarmed_US"
 	] call BIS_fnc_selectRandom;
 
 	_missionType = "Armed Helicopter";

@@ -36,7 +36,7 @@ for "_i" from 1 to _nbUnits do
 	removeAllAssignedItems _unit;
 	removeVest _unit;
 	removeBackpack _unit;
-	_unit addVest "V_HarnessOSpec_gry";
+	_unit addVest "CUP_V_B_RRV_Scout2";
 	_unit addMagazine "30Rnd_556x45_Stanag";
 	_unit addMagazine "30Rnd_556x45_Stanag";
 	_unit addMagazine "30Rnd_556x45_Stanag";
@@ -46,41 +46,38 @@ for "_i" from 1 to _nbUnits do
 		// Grenadier every 3 units
 		case (_i % 3 == 0):
 		{
-			_unit addMagazine "1Rnd_HE_Grenade_shell";
-			_unit addWeapon "arifle_TRG21_GL_F";
-			_unit addMagazine "1Rnd_HE_Grenade_shell";
-			_unit addMagazine "1Rnd_HE_Grenade_shell";
+			_unit addMagazine "CUP_1Rnd_HE_M203";
+			_unit addWeapon "CUP_arifle_M4A1_BUIS_GL";
+			_unit addMagazine "CUP_1Rnd_HE_M203";
+			_unit addMagazine "CUP_1Rnd_HE_M203";
 		};
 		// RPG every 7 units, starting from second one
 		case ((_i + 5) % 7 == 0):
 		{
 			_unit addBackpack "B_Kitbag_mcamo";
-			_unit addWeapon "arifle_TRG20_F";
-			_unit addMagazine "Titan_AT";
-			_unit addWeapon "launch_Titan_short_F";
-			_unit addMagazine "Titan_AT";
-			_unit addMagazine "Titan_AT";
+			_unit addWeapon "CUP_arifle_M4A1_Holo_Laser";
+			_unit addMagazine "CUP_MAAWS_HEAT_M";
+			_unit addWeapon "CUP_launch_MAAWS";
+			_unit addMagazine "CUP_MAAWS_HEAT_M";
+			_unit addMagazine "CUP_MAAWS_HEAT_M";
 		};
 		// Rifleman
 		default
 		{
 			if (_unit == leader _group) then
 			{
-				_unit addWeapon "arifle_TRG21_F";
+				_unit addWeapon "CUP_arifle_M16A4_ACOG_Laser";
 				_unit setRank "SERGEANT";
 			}
 			else
 			{
-				_unit addWeapon "arifle_TRG20_F";
+				_unit addWeapon "CUP_arifle_M16A4";
 			};
 		};
 	};
-
-	_unit addPrimaryWeaponItem "acc_flashlight";
-	_unit enablegunlights "forceOn";
-
 	_unit addRating 1e11;
 	_unit spawn refillPrimaryAmmo;
 	_unit call setMissionSkill;
 	_unit addEventHandler ["Killed", server_playerDied];
 };
+
