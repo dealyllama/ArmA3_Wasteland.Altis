@@ -139,5 +139,15 @@ Buildingstoloot_list =
 	["Land_u_Shed_Ind_F", 2],
 	["Land_u_Shop_01_V1_F", 0],
 	["Land_u_Shop_02_V1_F", 0],
-	["Land_WIP_F", 2]
+	["Land_WIP_F", 2],
+	["Land_Airport_left_F", 1],
+	//["Land_Airport_center_F", 1],
+	["Land_Airport_right_F", 1],
+	["Land_i_Barracks_V1_F", 1],
+	["Land_i_Barracks_V2_F", 1],
+	["Land_Cargo_Tower_V1_F", 1],
+	["Land_Airport_Tower_F", 1],
+	["Land_Mil_Barracks_i_EP1", 1],
+	["Land_MilOffices_V1_F", 1],
+	["Land_Offices_01_V1_F", 1]
 ];

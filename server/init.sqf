@@ -12,7 +12,7 @@
 
 if (!isServer && hasInterface) exitWith {};
 
-externalConfigFolder = "\A3Wasteland_settings";
+externalConfigFolder = "A3Wasteland_settings";
 
 if (isServer) then
 {

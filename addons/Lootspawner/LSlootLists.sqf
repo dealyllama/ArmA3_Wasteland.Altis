@@ -14,70 +14,73 @@ lootWeapon_list =
 	[ // CIVIL
 		0,
 		[
-			"arifle_MK20C_F",
-			"arifle_MK20_F",
-			"arifle_TRG20_F",
-			"arifle_TRG21_F",
-			"Binocular",
-			"hgun_PDW2000_F",
-			"SMG_01_F",                         // Vermin .45 ACP
-			"SMG_02_F"                          // Sting 9mm
+			"CUP_hgun_Duty",
+			"CUP_hgun_Colt1911",
+			"CUP_hgun_TaurusTracker455",
+			"CUP_srifle_LeeEnfield",
+			"CUP_sgun_M1014"
 		]
 	],
 	[ // MILITARY
 		1,
 		[
-			"arifle_Katiba_C_F",
-			"arifle_Katiba_F",
-			"arifle_Katiba_GL_F",
-			"arifle_Mk20C_F",
-			"arifle_Mk20_F",
-			"arifle_Mk20_GL_F",
-			"arifle_MXC_F",
-			"arifle_MXM_F",
-			"arifle_MX_F",
-			"arifle_MX_GL_F",
-			"arifle_MX_SW_F",
-			"arifle_SDAR_F",
-			"arifle_TRG20_F",
-			"arifle_TRG21_F",
-			"arifle_TRG21_GL_F",
-			"Binocular",
-			"hgun_PDW2000_F",
-			"LMG_Mk200_F",
-			"LMG_Zafir_F",
-			"Rangefinder",
-			"SMG_01_F",                         // Vermin .45 ACP
-			"SMG_02_F",                         // Sting 9mm
-			"srifle_EBR_F",
-			"srifle_GM6_F",
-			"srifle_LRR_F"
+			"CUP_smg_MP5A5",
+			"CUP_smg_MP5SD6",
+			"CUP_smg_bizon",
+			"CUP_arifle_AK74",
+			"CUP_arifle_FNFAL_railed",
+			"CUP_arifle_M16A4_Base",
+			"CUP_srifle_M14_DMR",
+			"CUP_srifle_M40A3",
+			"CUP_srifle_Mk12SPR",
+			"CUP_srifle_SVD",
+			"CUP_srifle_VSSVintorez",
+			"CUP_sgun_Saiga12K",
+			
+			//TODO - switch to arma 3 surpressors and scopes for more compatability
+			//Scopes
+			"CUP_optic_ACOG",
+			"CUP_optic_TrijiconRx01_black",
+			"CUP_optic_ElcanM145",
+			"CUP_optic_Elcan_reflex",
+			"CUP_optic_HoloBlack",
+			"CUP_optic_HoloWdl",
+			"CUP_optic_Eotech533Grey",
+			"CUP_optic_Kobra",
+			"CUP_optic_PSO_1",
+			"CUP_optic_PSO_3",
+			"CUP_optic_PGO7V3",
+			"CUP_optic_LeupoldMk4",
+
+			//Attachments
+			"acc_pointer_IR",
+
+
+			//Supressors
+//			"CUP_muzzle_snds_M16_camo",
+//			"CUP_muzzle_snds_M14",
+//			"CUP_muzzle_Bizon",
+			"CUP_muzzle_PB6P9",
+			"CUP_muzzle_PBS4",
+			"CUP_muzzle_snds_M9",
+			"CUP_muzzle_snds_L85"
+
 		]
 	],
 	[ // INDUSTRIAL
 		2,
 		[
-			"arifle_Mk20C_F",
-			"arifle_Mk20_F",
-			"arifle_TRG20_F",
-			"arifle_TRG21_F",
-			"arifle_Katiba_C_F",
-			"arifle_MXC_F",
-			"Binocular",
-			"SMG_01_F",                         // Vermin .45 ACP
-			"SMG_02_F"                          // Sting 9mm
+			"CUP_hgun_Duty",
+			"CUP_hgun_Glock17",
+			"CUP_hgun_TaurusTracker455",
+			"CUP_srifle_LeeEnfield",
+			"CUP_sgun_M1014"    
 		]
 	],
 	[ // RESEARCH
 		3,
 		[
-			"arifle_Katiba_GL_F",
-			"arifle_MXC_F",
-			"arifle_MXM_F",
-			"arifle_MX_GL_F",
-			"Rangefinder",
-			"srifle_GM6_F",
-			"srifle_LRR_F"
+			"CUP_hgun_M9"
 		]
 	]
 ];
@@ -92,107 +95,46 @@ lootMagazine_list =
 	[ // CIVIL
 		0,
 		[
-			//"16Rnd_9x21_Mag",
-			"9Rnd_45ACP_Mag",
-			"30Rnd_9x21_Mag",
-			"30Rnd_45ACP_Mag_SMG_01_tracer_green",
-			"30Rnd_556x45_Stanag_Tracer_Yellow",
-			"30Rnd_65x39_caseless_mag_Tracer",
-			"30Rnd_65x39_caseless_green_mag_Tracer"/*,
-			"Chemlight_blue",
-			"Chemlight_green",
-			"Chemlight_red",
-			"Chemlight_yellow"*/
+			"16Rnd_9x21_Mag",
+			"CUP_7Rnd_45ACP_1911",
+			"CUP_6Rnd_45ACP_M"
 		]
 	],
 	[ // MILITARY
 		1,
 		[
-			"100Rnd_65x39_caseless_mag",
-			"100Rnd_65x39_caseless_mag_Tracer",
-			"150Rnd_762x51_Box",
-			"150Rnd_762x51_Box_Tracer",
-			//"16Rnd_9x21_Mag",
-			"1Rnd_HE_Grenade_shell",
-			"1Rnd_Smoke_Grenade_shell",
-			"SmokeShell",
-			"SmokeShellPurple",
-			"SmokeShellBlue",
-			"SmokeShellGreen",
-			"SmokeShellYellow",
-			"SmokeShellOrange",
-			"SmokeShellRed",
-			"200Rnd_65x39_cased_Box",
-			"200Rnd_65x39_cased_Box_Tracer",
-			"20Rnd_556x45_UW_mag",
-			"20Rnd_762x51_Mag",
-			"20Rnd_762x51_Mag",
-			"30Rnd_45ACP_Mag_SMG_01",
-			"30Rnd_45ACP_Mag_SMG_01",
-			"30Rnd_556x45_Stanag",
-			"30Rnd_556x45_Stanag_Tracer_Yellow",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green_mag_Tracer",
-			"30Rnd_65x39_caseless_mag",
-			"30Rnd_65x39_caseless_mag_Tracer",
-			"30Rnd_9x21_Mag",
-			"30Rnd_9x21_Mag",
-			/*"3Rnd_HE_Grenade_shell",
-			"3Rnd_SmokeBlue_Grenade_shell",
-			"3Rnd_SmokeGreen_Grenade_shell",
-			"3Rnd_SmokeOrange_Grenade_shell",
-			"3Rnd_SmokePurple_Grenade_shell",
-			"3Rnd_SmokeRed_Grenade_shell",
-			"3Rnd_SmokeYellow_Grenade_shell",
-			"3Rnd_Smoke_Grenade_shell",*/
-			"5Rnd_127x108_Mag",
-			"7Rnd_408_Mag",
-			"9Rnd_45ACP_Mag",
-			"9Rnd_45ACP_Mag",
-			"APERSBoundingMine_Range_Mag",
-			"APERSMine_Range_Mag",
-			"APERSTripMine_Wire_Mag",
-			"ATMine_Range_Mag",
-			/*"Chemlight_blue",
-			"Chemlight_green",
-			"Chemlight_red",
-			"Chemlight_yellow",*/
-			"ClaymoreDirectionalMine_Remote_Mag",
-			"HandGrenade",
-			"MiniGrenade",
-			"SatchelCharge_Remote_Mag",
-			"SLAMDirectionalMine_Wire_Mag"
+						"CUP_30Rnd_9x19_MP5",
+			"CUP_64Rnd_9x19_Bizon_M",
+			//"CUP_30Rnd_762x39_AK47_M",
+			"CUP_20Rnd_762x51_FNFAL_M",
+			"CUP_30Rnd_556x45_Stanag",
+			"CUP_20Rnd_556x45_Stanag",
+			"CUP_10Rnd_762x51_CZ750",
+			"CUP_10x_303_M",
+			"CUP_20Rnd_762x51_DMR",
+			"CUP_5Rnd_762x51_M24",
+			"CUP_10Rnd_762x54_SVD_M",
+			"CUP_20Rnd_9x39_SP5_VSS_M",
+			"CUP_8Rnd_B_Saiga12_74Slug_M",
+			"CUP_8Rnd_B_Saiga12_74Pellets_M"
 		]
 	],
 	[ // INDUSTRIAL
 		2,
 		[
-			"30Rnd_9x21_Mag",
-			"30Rnd_45ACP_Mag_SMG_01",
-			"30Rnd_556x45_Stanag",
-			"30Rnd_556x45_Stanag_Tracer_Yellow",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green_mag_Tracer",
-			"30Rnd_65x39_caseless_mag",
-			"30Rnd_65x39_caseless_mag_Tracer"/*,
-			"Chemlight_blue",
-			"Chemlight_green",
-			"Chemlight_red",
-			"Chemlight_yellow"*/
+			"16Rnd_9x21_Mag",
+			"CUP_17Rnd_9x19_glock17",
+			"CUP_7Rnd_45ACP_1911",
+			"CUP_15Rnd_9x19_M9",
+			"CUP_6Rnd_45ACP_M",
+			"CUP_8Rnd_B_Beneli_74Slug",
+			"CUP_8Rnd_B_Beneli_74Pellets"
 		]
 	],
 	[ // RESEARCH
 		3,
 		[
-			"20Rnd_556x45_UW_mag",
-			"30Rnd_556x45_Stanag",
-			"30Rnd_556x45_Stanag",
-			"30Rnd_65x39_caseless_mag",
-			"30Rnd_65x39_caseless_mag",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"5Rnd_127x108_Mag",
-			"7Rnd_408_Mag"
+			"16Rnd_9x21_Mag"
 		]
 	]
 ];
@@ -207,78 +149,110 @@ lootItem_list =
 	[ // CIVIL
 		0,
 		[
-			"acc_flashlight",
+				//Generic Gear
+			"Binocular",
+			"ItemCompass",
 			"FirstAidKit",
-			"FirstAidKit",
-			"FirstAidKit",
-			"muzzle_snds_acp",                  // .45 ACP
-			"muzzle_snds_L",                    // 9mm
-			"optic_Aco",
-			"optic_ACO_grn",
-			"optic_aco_smg",
-			"optic_Holosight",
-			"optic_Holosight_smg"
+			"ItemGPS",
+
+			//Uniform
+
+
+			//Chest Rigs
+			"V_Press_F",
+
+			//Hats - because people need to wear more hats.
+			"H_Watchcap_blk",
+			"H_StrawHat",
+			"CUP_H_C_Ushanka_03",
+			"H_Cap_grn_BI",
+			"H_Cap_blk_CMMG",
+			"H_Cap_grn",
+			"H_Cap_police",
+			"H_Cap_press"
+
 		]
 	],
 	[ // MILITARY
 		1,
 		[
-			"acc_flashlight",
-			"acc_pointer_IR",
 			"FirstAidKit",
 			"ItemGPS",
 			"Medikit",
-			"muzzle_snds_acp",                  // .45 ACP
-			"muzzle_snds_B",                    // 7.62mm
-			"muzzle_snds_H",                    // 6.5mm
-			"muzzle_snds_H_MG",                 // 6.5mm LMG
-			"muzzle_snds_L",                    // 9mm
-			"muzzle_snds_M",                    // 5.56mm
-			"NVGoggles",
-			//"NVGoggles_INDEP",
-			//"NVGoggles_OPFOR",
-			"optic_Aco",
-			"optic_ACO_grn",
-			"optic_aco_smg",
-			"optic_Arco",
-			"optic_Hamr",
-			"optic_Holosight",
-			"optic_Holosight_smg",
-			"optic_SOS",
-			"ToolKit",
+			"Binocular",
+			"ItemCompass",
+			"ItemRadio",
+			"Rangefinder",
+
+
+		//Fashionable Headwear
+
+			"CUP_H_Ger_Boonie_Flecktarn",
+			"CUP_H_FR_BoonieMARPAT",
+			"CUP_H_Ger_Boonie_desert",
 			"H_HelmetB",
-			"H_HelmetIA",
-			"H_HelmetO_ocamo",
-			"V_PlateCarrier1_rgr",
-			"V_PlateCarrierIA1_dgtl",
-			"V_HarnessO_brn"
+			"CUP_H_PMC_EP_Headset",
+			"CUP_H_RACS_Helmet_DPAT",
+			"CUP_H_RACS_Helmet_Headset_DPAT",
+			"H_Shemag_olive",
+			"CUP_H_TK_Helmet",
+			"CUP_H_USMC_Crew_Helmet",
+			"CUP_H_USMC_HelmetWDL",
+			"CUP_H_USMC_Goggles_HelmetWDL",
+
+			//Chest Rigs
+			"CUP_V_O_SLA_Flak_Vest01",
+			"CUP_V_I_Carrier_Belt",
+			"CUP_V_B_GER_Carrier_Vest_2",
+			"CUP_V_B_GER_Vest_1",
+			"CUP_V_B_GER_Vest_2",
+			"CUP_V_B_MTV_Pouches",
+			"CUP_V_B_MTV_Marksman",
+			"CUP_V_B_PilotVest",
+			"CUP_V_I_RACS_Carrier_Vest",
+			"CUP_V_B_RRV_MG",
+			"CUP_V_B_RRV_Scout"
 		]
 	],
 	[ // INDUSTRIAL
 		2,
 		[
+			//Generic Gear
+			"Binocular",
+			"ItemCompass",
 			"FirstAidKit",
-			"FirstAidKit",
-			"Medikit",
-			"ToolKit",
-			"ToolKit"
+			"ItemGPS",
+			"ItemRadio",
+
+			//Uniforms
+
+			//Chest Rigs
+			"V_Press_F",
+
+			//Hats - because people need to wear more hats.
+			"H_Bandanna_gry",
+			"H_Bandanna_blu",
+			"H_Bandanna_cbr",
+			"CUP_H_FR_BandanaGreen",
+			"H_Watchcap_blk",
+			"H_StrawHat",
+			"CUP_H_C_Ushanka_03",
+			"H_Cap_grn_BI",
+			"H_Cap_blk_CMMG",
+			"H_Cap_grn",
+			"H_Cap_police",
+			"H_Cap_press"
 		]
 	],
 	[ // RESEARCH
 		3,
 		[
 			"FirstAidKit",
-			"FirstAidKit",
-			"FirstAidKit",
 			"ItemGPS",
 			"Medikit",
-			"NVGoggles",
-			//"NVGoggles_INDEP",
-			//"NVGoggles_OPFOR",
-			"optic_Nightstalker",
-			"optic_NVS",
-			"optic_SOS",
-			"V_RebreatherB"
+			"Binocular",
+			"ItemCompass",
+			"ItemRadio"
 		]
 	]
 ];

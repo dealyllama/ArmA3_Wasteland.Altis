@@ -1,0 +1,655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "A3Wasteland_settings/main_config.sqf",
+			"settings":
+			{
+				"buffer_size": 13197,
+				"line_ending": "Windows",
+				"name": "// A3Wasteland config file"
+			}
+		},
+		{
+			"file": "A3Wasteland_settings/init.sqf",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-16_08-35-07.rpt",
+			"settings":
+			{
+				"buffer_size": 24111,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "A3Wasteland_settings/admins.sqf",
+			"settings":
+			{
+				"buffer_size": 898,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/Lootspawner/Lootspawner.sqf",
+			"settings":
+			{
+				"buffer_size": 11740,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/Lootspawner/LSlootBuildings.sqf",
+			"settings":
+			{
+				"buffer_size": 5558,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/Lootspawner/LSlootLists.sqf",
+			"settings":
+			{
+				"buffer_size": 10225,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "server/init.sqf",
+			"settings":
+			{
+				"buffer_size": 17440,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/A3Wasteland_settings",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/addons",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/addons/Lootspawner"
+	],
+	"file_history":
+	[
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-16_08-35-07.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/A3Wasteland_settings/init.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/init.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/server/init.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/server/antihack/setup.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/globalCompile.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/config.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/A3Wasteland_settings/serverRules.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/A3Wasteland_settings/bannedNames.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/ArmA3_Wasteland.Altis/A3Wasteland_settings/admins.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/Lootspawner/LSlootLists.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/default_config.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/Lootspawner/Lootspawner.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/Lootspawner/LSlootBuildings.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/Lootspawner/LSclientScan.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/init.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-15_21-40-57.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/basebor.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/Lootspawner/fn_LSgetBuildingstospawnLoot.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/kamenka.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/northwest.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/Lootspawner/LSdeleter.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/init_buildings.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/zeleno.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/northeast.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/vybor.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/basenovy.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/basedichina.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/krasno.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/mil_northairfield.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-15_11-21-19.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/balota.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/ChernarusBuildings/3cities.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-15_10-15-19.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/globalCompile.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/call.fsm",
+		"/C/Users/dealyllama/Documents/GitHub/ChernarusBuildings/README.md",
+		"/C/Users/dealyllama/Documents/GitHub/ChernarusBuildings/mil_northairfield",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/storeConfig.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/fn_refilltruck.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/fn_refillbox.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/splitWeaponItems.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/setupMissionArrays.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-14_19-27-29.rpt",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-14_15-35-15.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/buildingReplacer/buildingReplacer.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/randomWeapon.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/serverVars.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/factoryMethods/createUnits/createRandomSoldier.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/factoryMethods/createUnits/createRandomSoldierC.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/factoryMethods/createUnits/customGroup.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/factoryMethods/createUnits/customGroup2.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-14_14-29-23.rpt",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-14_09-33-23.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/vehicleRespawnManager.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/vehicleCreation.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/addVehicleRespawn.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/getDefaultClothing.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/firstSpawn.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/defineServerRules.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/playerSetupGear.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/uniformConverter.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/systems/generalStore/populateGenStore.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/clientCompile.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/canForceSaveVehicle.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/bannedNames.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/playerSetup.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/welcomeMessage.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/spawnRandom.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/setupClientPVars.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/isWeaponType.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/playerActions.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/playerSetupEnd.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/functions/isAssignableBinocular.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/init.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/initPlayerServer.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-13_14-53-47.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/initServer.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/mission.sqm",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/stringtable.xml",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/config.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/factoryMethods/createUnits/largeDivers.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/initPlayerLocal.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/setMissionSkill.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/serverPlayerDied.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/playerRespawnServer.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/dropPlayerItems.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/scripts/DynamicWeatherEffects.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/allPlayers.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/outposts/Outpost2.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/outposts/outpostsList.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/outposts/Outpost1.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/factoryMethods/moveIntoBuildings.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/objectsSpawning.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/fn_replaceWeapons.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/fn_replaceMagazines.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-11_19-52-38.rpt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/actions/salvage.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/mf_remote.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/vehicleRepair.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/boatCreation.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/missions/mainMissions/mission_Coastal_Convoy.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/fn_boundingBoxReal.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/addons/R3F_ARTY_AND_LOG/R3F_LOG/config.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/systems/vehicleStore/vehicleInfo.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/systems/vehicleStore/populateVehicleStore.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/systems/vehicleStore/dialog/vehiclestore_settings.hpp",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/client/systems/vehicleStore/dialog/vehiclestoreDefines.hpp",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/CfgFunctions.hpp",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/staticHeliCreation.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/staticGunCreation.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/planeCreation.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/spawning/objectCreation.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/twilight_ref_gear_list.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/twilight_wasteland_todo.txt",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/functions/vehicleSpawning.sqf",
+		"/C/Users/dealyllama/Documents/Arma 3/mpmissions/A3_Twilight_Wasteland.Chernarus/server/admins.sqf",
+		"/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-10_19-37-00.rpt",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/DAC/DAC_Config_Camps.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/mission.sqm",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/DemoText.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/Init.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/DAC/DAC_Config_Units.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_27_DAC_intern_cfg.Altis/DemoText.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/DAC/DAC_Config_Weapons.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/DAC/DAC_Config_Waypoints.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/DAC/DAC_Config_Behaviour.sqf",
+		"/C/Users/dealyllama/Downloads/DACV3.1b/DAC_Tutorial/english/missions/#E_30_DAC_extern_cfg.Altis/DAC/DAC_Config_Arti.sqf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\dealyllama\\Documents\\Arma 3\\mpmissions\\A3_Twilight_Wasteland.Chernarus"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"radius",
+			"asc_eu_lhss",
+			"asc_eu",
+			"mass_",
+			"body2",
+			"LightPole",
+			"Light",
+			"LightPole",
+			"lightpole",
+			"asc_eu_lhss",
+			"_this setVehicleInit ",
+			"mass_grave",
+			"_this setVehicleInit ",
+			"ASC_EU_LHS",
+			"body",
+			"_this setVehicle",
+			"lightpole",
+			"_this setVehicleInit",
+			"woodstairs",
+			"ASC_EU_LHVSidl1",
+			"ASC_EU",
+			"_this setVehicleInit",
+			"body2",
+			"LAND",
+			"_this setVehicleInit",
+			"LAND_ASC_runway_Blue",
+			"ASC_runway_bluelight",
+			"body2",
+			"body",
+			"asc_eu",
+			"body1",
+			"LAND_ASC",
+			"_this setVehicleInit",
+			"BIS",
+			"_this setVehicleInit \"this setvectorup",
+			"_this setVehicleInit \"this setvectorup [0,0,1]\";",
+			"this setvectorup [0,0,1]",
+			"\"this setvectorup [0,0,1]\"",
+			"debug",
+			"debu",
+			"isUniformAllowed",
+			"playersetupgear",
+			"pkm",
+			"\"\n",
+			"[\n",
+			"rhs_",
+			"difficulty",
+			"100",
+			"wasteland",
+			"profile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//_this setVehicleInit ",
+			"//_this setVehicleInit",
+			"//_this setVehicleInit \"this setvectorup [0,0,1]\";",
+			"\"this setvectorup [0,0,1]\"",
+			"this setvectorup [0,0,1]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "A3Wasteland_settings/main_config.sqf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11986,
+								11986
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// A3Wasteland config file",
+							"syntax": "Packages/SQF Language/SQF.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "A3Wasteland_settings/init.sqf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQF Language/SQF.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/dealyllama/AppData/Local/Arma 3/arma3_2016-04-16_08-35-07.rpt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "A3Wasteland_settings/admins.sqf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								765,
+								765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQF Language/SQF.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "addons/Lootspawner/Lootspawner.sqf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQF Language/SQF.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "addons/Lootspawner/LSlootBuildings.sqf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5558,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1041,
+								1041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQF Language/SQF.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "addons/Lootspawner/LSlootLists.sqf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQF Language/SQF.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "server/init.sqf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17440,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								779,
+								779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQF Language/SQF.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a3w_altis.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
